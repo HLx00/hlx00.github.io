@@ -16,7 +16,7 @@ timezone:
 
 title: HLx00 # the main title
 
-tagline: Red Teaming 💀 | Bug Hunting 🐞 | CTF Player 🚩  # it will display as the subtitle
+tagline: Red Teaming | Bug Hunting | CTF Player   # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
    This my Personal blog
